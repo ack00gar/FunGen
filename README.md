@@ -4,7 +4,7 @@
 
 > *Enjoy your time.*
 
-🌐 **[Website](https://ack00gar.github.io/fungen-site/)** · 📥 **[Download](https://github.com/ack00gar/FunGen/releases)** · 💬 **[Discord](https://discord.com/invite/WYkjMbtCZA)**
+🌐 **[https://fungen.app](https://fungen.app)** · 📥 **[Download](https://github.com/ack00gar/FunGen/releases)** · 💬 **[Discord](https://discord.com/invite/WYkjMbtCZA)**
 
 ![FunGen interface](assets/screenshot.png)
 
@@ -32,7 +32,7 @@ Try it free, never forced to buy. Turn raw video into a draftable funscript in o
 Two tiers, no lock-out:
 
 - **Free.** Base algorithmic generation for everyone, plus the AI generation itself behind a short metered wait. You can genuinely try it.
-- **Pro.** Removes the wait and unlocks the dedicated high-quality 2D and VR AI models. See [pricing](https://ack00gar.github.io/fungen-site/#pricing).
+- **Pro.** Removes the wait and unlocks the dedicated high-quality 2D and VR AI models. See [pricing](https://fungen.app#pricing).
 
 ## Playback & devices
 
