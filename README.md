@@ -47,6 +47,17 @@ One native binary per platform (Windows / macOS / Linux), localized in multiple 
 
 Get the latest build for macOS, Windows, or Linux from the [Releases](https://github.com/ack00gar/FunGen/releases) page.
 
+## Guides
+
+New to funscripts, or want the details? The docs walk through it:
+
+- [What is a funscript?](https://fungen.app/what-is-a-funscript)
+- [Generate a funscript from any video](https://fungen.app/generate-funscripts-from-video)
+- [The funscript editor](https://fungen.app/funscript-editor)
+- [VR funscripts](https://fungen.app/vr-funscripts)
+- [Supported devices](https://fungen.app/supported-devices) — incl. [The Handy](https://fungen.app/funscripts-for-the-handy) and [OSR2 / SR6](https://fungen.app/funscripts-for-osr2-sr6)
+- [Changelog](https://fungen.app/changelog)
+
 ## Community
 
 Join the [Discord community](https://discord.com/invite/WYkjMbtCZA) for discussions, support, and updates.
