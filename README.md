@@ -1,0 +1,76 @@
+# FunGen
+
+**Funscript editor and AI generator, running on your own machine.** Turn any 2D or VR video into a funscript, refine it frame by frame on a multi-axis timeline, and play it straight to your device. Free tracking algorithms included; a Pro Pass unlocks the full-quality AI models.
+
+**[fungen.app](https://fungen.app)** · **[Download](https://github.com/ack00gar/FunGen/releases)** · **[Discord](https://discord.com/invite/WYkjMbtCZA)**
+
+![FunGen 2.6.1](assets/screenshot.png)
+
+FunGen is a complete, cross-platform funscript editor and AI generator. A single native binary per platform: no Python runtime, no shell scripts, no mismatched libraries to chase. Just download one file and run.
+
+Generate, edit, refine. Or just generate and play. Or even, just play.
+
+## The editor
+
+- **Timeline.** Frame-accurate point editing, rich selection (peaks/valleys, top/middle/bottom, by-chapter, left/right of the playhead), transforms (equalize, isolate, ripple-delete, repeat-stroke, snap-to-playhead magnet, and more), parametric stroke generation, all with live preview. Plus a plugin / macro system for repeatable edits.
+- **Multi-axis.** Full multi-axis scripting (stroke, surge, sway, twist, roll, pitch). Open several scripts or axes as lanes side by side and ghost one over another to compare and reference while you edit.
+- **Funscript Doctor.** Scores your script's quality, flags issues (speed limits, gaps, missing strokes…) and offers one-click auto-fixes.
+- **Chapters, bookmarks & heatmap.** A chapter bar with custom types, bookmarks, and a colored heatmap.
+- **Unlimited undo/redo.** With a visual history browser that survives closing and reopening a project.
+
+## AI generation
+
+Try it free, never forced to buy. Turn raw video into a draftable funscript in one pass, then refine by hand. Several ways in:
+
+- **FunGenerate.** Proposes the next 20 seconds of motion from the playhead, shown as a live ghost over your script; accept or reject before it commits. Judge the AI's quality on your own content before deciding anything.
+- **Full auto-generation.** Run the AI tracking pipeline over the whole video.
+- **Live recording.** Drive the motion yourself (mouse or controller) while it plays, and record it live.
+- **Quick-generate from Welcome.** Drop a video in and go.
+
+Two tiers, no lock-out:
+
+- **Free.** Base algorithmic generation for everyone, plus the AI generation itself behind a short metered wait. You can genuinely try it.
+- **Pro.** Removes the wait and unlocks the dedicated high-quality 2D and VR AI models. See [pricing](https://fungen.app#pricing).
+
+## Playback & devices
+
+- **Built-in player.** Hardware-accelerated decoding; scrub and preview without a separate player.
+- **Device output.** The Handy (USB, Bluetooth and network), Kiiroo Keon and Onyx, Fleshlight Launch, Lovense Solace Pro, Autoblow, Vacuglide, Vorze Piston, OSSM, Hismith machines, and OSR2 / SR6 / SSR1 over T-Code. Anything else through Buttplug.io / Intiface. Single- and multi-axis, with an on-screen position gauge.
+
+## Cross-platform, properly
+
+One native binary per platform (Windows / macOS / Linux), localized in multiple languages. Actively developed, and out of beta since 2.6.0. Feedback from the community directly shapes it, so bug reports and feature requests are very welcome.
+
+## Downloads
+
+Get the latest build for macOS, Windows, or Linux from the [Releases](https://github.com/ack00gar/FunGen/releases) page.
+
+## Guides
+
+New to funscripts, or want the details? The docs walk through it:
+
+- [What is a funscript?](https://fungen.app/what-is-a-funscript)
+- [Generate a funscript from any video](https://fungen.app/generate-funscripts-from-video)
+- [The funscript editor](https://fungen.app/funscript-editor)
+- [VR funscripts](https://fungen.app/vr-funscripts)
+- [Supported devices](https://fungen.app/supported-devices), including [The Handy](https://fungen.app/funscripts-for-the-handy) and [OSR2 / SR6](https://fungen.app/funscripts-for-osr2-sr6)
+- [Changelog](https://fungen.app/changelog)
+
+Step-by-step walkthroughs:
+
+- [How to make a funscript](https://github.com/ack00gar/FunGen-AI-Powered-Funscript-Generator/blob/main/how-to-make-a-funscript.md): AI generation, by hand, recorded live, or from the audio.
+- [Funscript editor](https://github.com/ack00gar/FunGen-AI-Powered-Funscript-Generator/blob/main/funscript-editor.md): timeline, selection, transforms, multi-axis, chapters and the Doctor.
+
+## Community
+
+Join the [Discord community](https://discord.com/invite/WYkjMbtCZA) for discussions, support, and updates.
+
+## Support
+
+If FunGen is useful to you, you can support its development on [Patreon](https://patreon.com/FunGen_AI) or [PayPal](https://paypal.me/k00gar).
+
+## License
+
+FunGen is free for personal, non-commercial use only. See [LICENSE](LICENSE) for the full terms.
+
+For commercial or business use, please get in touch: support@fungen.app
